@@ -28,7 +28,9 @@ Você recebera um email com um link de ativação, basta acessá-lo.
 - Acesse a pasta para onde você clonou o repositório
     - Se desejar fazer direto pelo Explorador de Arquivos, abra a pasta e abra o Git Bash nela, como explicado anteriormente
     - Se já tiver clonado e o Git Bash ainda estiver aberto, execute o comando: 
-    ```console $ cd trainee ```
+    ```console 
+        $ cd trainee
+    ```
 
 # Propridades de um componente
 ```javascript
