@@ -36,7 +36,7 @@ Você recebera um email com um link de ativação, basta acessá-lo.
  $ cd trainee 
 ```
 
-# Propridades de um componente
+# Propriedades de um componente
 ```javascript
 export default {
     name: '',
